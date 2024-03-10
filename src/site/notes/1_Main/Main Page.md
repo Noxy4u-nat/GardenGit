@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-main/main-page/","tags":["excalidraw","gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-main/main-page/","tags":["excalidraw","gardenEntry","gardenEntry"]}
 ---
 
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
